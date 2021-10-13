@@ -6,11 +6,19 @@
       "comps": [
         {
           "type": "html",
-          "text": "The \"...\" Effect: When a piece of information perfectly fits our prior knowledge.",
+          "text": "The ... Effect: When a piece of information perfectly fits our prior knowledge.",
           "showAt": 7
         },
-        { "type": "html", "text": "Slot In Effect", "showAt": 6 },
-        { "type": "image", "src": "https://raw.githubusercontent.com/bjsi/pleasure-of-learning/main/images/jigsaw-slot-in.png", "showAt": 6 }
+        {
+          "type": "html",
+          "text": "Slot In Effect",
+          "showAt": 6 
+        },
+        { 
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/bjsi/pleasure-of-learning/main/images/jigsaw-slot-in.png",
+          "showAt": 6 
+        }
       ],
       "template": "Item Picture"
     },
@@ -21,10 +29,18 @@
           "text": "Learning new knowledge will be difficult if you do not have much ... about the topic.",
           "showAt": 7
         },
-        { "type": "html", "text": "prior knowledge", "showAt": 6 },
-        { "type": "image", "src": "https://raw.githubusercontent.com/bjsi/pleasure-of-learning/main/images/knowledge-web.png", "showAt": 6 }
+        { 
+          "type": "html",
+          "text": "prior knowledge",
+          "showAt": 6 
+        },
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/bjsi/pleasure-of-learning/main/images/knowledge-web.png",
+          "showAt": 6 
+        }
       ],
       "template": "Item Picture"
-    },
+    }
   ]
 }
